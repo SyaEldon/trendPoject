@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19d078da-adcf-4d85-a6b3-6b850aace502" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\Syaeldon\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P8EEitWUZyymmm3yZBMNmWNSvE" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../c" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.13476562" />
+    <property name="project.structure.side.proportion" value="0.20151679" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\D\CodeWork\trendProject\index-data-service\src\main\java\cn\how2j\trend" />
+      <recent name="C:\D\CodeWork\trendProject\index-data-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IndexZuulServiceApplication">
+    <configuration name="IndexCodesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="index-code-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.how2j.trend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.how2j.trend.IndexCodesApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="index-data-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.how2j.trend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.how2j.trend.IndexDataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexGatherStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="index-gather-store-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.how2j.trend.IndexGatherStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexZuulServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="index-zuul-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.how2j.trend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.how2j.trend.IndexZuulServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrendTradingBackTestServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="trend-trading-backtest-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.how2j.trend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.how2j.trend.TrendTradingBackTestServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrendTradingBackTestViewApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="trend-trading-backtest-view" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.how2j.trend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.how2j.trend.TrendTradingBackTestViewApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.IndexGatherStoreApplication" />
+      <item itemvalue="Spring Boot.IndexCodesApplication" />
+      <item itemvalue="Spring Boot.IndexDataApplication" />
+      <item itemvalue="Spring Boot.TrendTradingBackTestViewApplication" />
+      <item itemvalue="Spring Boot.TrendTradingBackTestServiceApplication" />
+      <item itemvalue="Spring Boot.IndexZuulServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.IndexZuulServiceApplication" />
+        <item itemvalue="Spring Boot.TrendTradingBackTestViewApplication" />
+        <item itemvalue="Spring Boot.TrendTradingBackTestServiceApplication" />
+        <item itemvalue="Spring Boot.IndexDataApplication" />
+        <item itemvalue="Spring Boot.IndexCodesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@47f547f0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19d078da-adcf-4d85-a6b3-6b850aace502" name="Default Changelist" comment="" />
+      <created>1565247214164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565247214164</updated>
+      <workItem from="1565247217972" duration="7140000" />
+      <workItem from="1565255798629" duration="14101000" />
+      <workItem from="1565319462720" duration="500000" />
+      <workItem from="1565319995596" duration="14804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/trendParentProject$IndexCodesApplication.ic" NAME="IndexCodesApplication Coverage Results" MODIFIED="1565275832317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.how2j.trend.*</FILTER>
+    </SUITE>
+  </component>
+</project>
